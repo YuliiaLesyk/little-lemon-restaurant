@@ -3,7 +3,7 @@ import React from 'react';
 function Header() {
   return (
     <header>
-      <h1>Little lemon restaurant</h1>
+     <img src='little-lemon-restaurant/src/Logo.svg' alt='Little Lemon Logo'/>
     </header>
   );
 }
