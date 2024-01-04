@@ -59,3 +59,4 @@ const BookingForm = (props) => {
 };
 
 export default BookingForm;
+
